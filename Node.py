@@ -4,7 +4,7 @@ from Savoir import Savoir
 class Node:
 
     rpchost = 'localhost'
-    rpcport = '9451'
+    rpcport = '7419'
     chainname = 'DevGrid'
 
     def __init__(self, fileName):
